@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>/Users/apple/Documents/Git/OderFit-Zalo_AI_Hacka/zai2019_hackaton_train/images/train/2599.jpg</folder>
+	<filename>702.jpg</filename>
+	<path>/Users/apple/Documents/Git/OderFit-Zalo_AI_Hacka/zai2019_hackaton_train/images/train/2599.jpg/702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nine Dash Line</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>514</xmin>
+			<ymin>381</ymin>
+			<xmax>584</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nine Dash Line</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>416</ymin>
+			<xmax>464</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nine Dash Line</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>401</ymin>
+			<xmax>471</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nine Dash Line</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>375</ymin>
+			<xmax>588</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>
